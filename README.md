@@ -1,0 +1,1 @@
+ Basic hyprland config, something; I'll be building up from scratch bit by bit, nothing but pure basics. 
